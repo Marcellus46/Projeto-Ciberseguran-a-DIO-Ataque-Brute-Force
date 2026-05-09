@@ -9,9 +9,15 @@ Projeto que Simula Um Ataque de Força Bruta com Senhas em Ambiente Controlado P
 
 ## 📌 Descrição do Projeto
 
-Este projeto tem como objetivo simular ataques de força bruta em um ambiente controlado, utilizando ferramentas de segurança ofensiva para compreender vulnerabilidades comuns e aplicar boas práticas de mitigação.
+Este projeto tem como objetivo simular ataques de força bruta em um ambiente controlado, utilizando ferramentas de segurança ofensiva para compreender vulnerabilidades comuns e aplicar boas práticas de mitigação. Todos os Exemplos são cenários fictícios, 
+porém simula cenários reais de ataque.
 
 O laboratório foi construído com máquinas virtuais isoladas, garantindo segurança e controle durante os testes.
+https://www.virtualbox.org/
+
+ATENÇÃO!
+
+- Deverá ser baixado no site oficial e instalado na máquina física, não sendo possível operar diretamente pelo site.
 
 ---
 
